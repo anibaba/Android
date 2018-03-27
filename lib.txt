@@ -1,1 +1,0 @@
-{"ch":"Q38","isview":"1","count":"100","bdcp":"30","gdtcp":"30","nativecount":"50","bdbanner":"10","gdtbanner":"10","bdbanper":"30","gdtbanper":"70","bdcpper":"30","gdtcpper":"70","umengper":"40","timeinterval":"7-9#11-13#18-21","timegap":"1515","adtypeper":"40"}
