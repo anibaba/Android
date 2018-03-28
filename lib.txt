@@ -1,11 +1,1 @@
-{
-　　"isGopen":"1",
-　　"isXopen":"1",
-　　"gAdSIval":"5#10#15####",
-　　"xAdSIval":"5#10#15####",
-　　"gClickL":"10#20#30#####",
-　　"xClickL":"10#20#30#####",
-　　"kleUm":"30",
-　　"interval":"7-9#11-13#18-21",
-　　"TretOO":"1"
-}
+{"isGopen":"1","isXopen":"1","gAdSIval":"5#10#15####","xAdSIval":"5#10#15####","gClickL":"10#20#30#####","xClickL":"10#20#30#####","kleUm":"30","TretOO":"1#0#1#1","interval":"7-9#11-13#18-21"}
